@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/led3d/static/css/main.3519d011.css",
-    "main.js": "/led3d/static/js/main.7dc78158.js",
-    "static/js/592.e4895090.chunk.js": "/led3d/static/js/592.e4895090.chunk.js",
+    "main.css": "/led3d/static/css/main.a38908d8.css",
+    "main.js": "/led3d/static/js/main.6984412b.js",
+    "static/js/592.23ec04c4.chunk.js": "/led3d/static/js/592.23ec04c4.chunk.js",
     "index.html": "/led3d/index.html",
-    "main.3519d011.css.map": "/led3d/static/css/main.3519d011.css.map",
-    "main.7dc78158.js.map": "/led3d/static/js/main.7dc78158.js.map",
-    "592.e4895090.chunk.js.map": "/led3d/static/js/592.e4895090.chunk.js.map"
+    "main.a38908d8.css.map": "/led3d/static/css/main.a38908d8.css.map",
+    "main.6984412b.js.map": "/led3d/static/js/main.6984412b.js.map",
+    "592.23ec04c4.chunk.js.map": "/led3d/static/js/592.23ec04c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3519d011.css",
-    "static/js/main.7dc78158.js"
+    "static/css/main.a38908d8.css",
+    "static/js/main.6984412b.js"
   ]
 }
