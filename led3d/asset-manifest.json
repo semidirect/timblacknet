@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/led3d/static/css/main.a38908d8.css",
-    "main.js": "/led3d/static/js/main.6984412b.js",
+    "main.css": "/led3d/static/css/main.7959b020.css",
+    "main.js": "/led3d/static/js/main.072b2dca.js",
     "static/js/592.23ec04c4.chunk.js": "/led3d/static/js/592.23ec04c4.chunk.js",
+    "static/media/pattern_orb.png": "/led3d/static/media/pattern_orb.66565409283e9211773b.png",
     "index.html": "/led3d/index.html",
-    "main.a38908d8.css.map": "/led3d/static/css/main.a38908d8.css.map",
-    "main.6984412b.js.map": "/led3d/static/js/main.6984412b.js.map",
+    "main.7959b020.css.map": "/led3d/static/css/main.7959b020.css.map",
+    "main.072b2dca.js.map": "/led3d/static/js/main.072b2dca.js.map",
     "592.23ec04c4.chunk.js.map": "/led3d/static/js/592.23ec04c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a38908d8.css",
-    "static/js/main.6984412b.js"
+    "static/css/main.7959b020.css",
+    "static/js/main.072b2dca.js"
   ]
 }
